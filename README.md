@@ -22,7 +22,7 @@
   <img  align="center" alt="Bruno-GitLab" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
   <img  align="center" alt="Bruno-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img  align="center" alt="Bruno-PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
-  <img  align="right" alt="Bruno-PyCharm" height="60" width="70"src="https://cdn.discordapp.com/attachments/1124166676167008289/1124167006594269214/1688086609.37116_831.png" />
+  <img  align="right" alt="Bruno-PyCharm" height="60" width="70"src="https://cdn.discordapp.com/attachments/1124166676167008289/1124167006594269214/1688086609.37116_831.png"/>
 </div>
 
 ###
