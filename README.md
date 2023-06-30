@@ -1,15 +1,6 @@
-### Olá, Terraqueos! Tudo bem? 
-### Sejam bem vindos ao meu perfil do gitHub!
+## Olá, Terraqueos! Tudo bem? 
+## Sejam bem vindos ao meu perfil do gitHub!
 
-<!--
-**brunorreiss/brunorreiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 Atualmente estou lendo The Hobbit e O pequeno príncipe.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estudo Python, Machine Learning e Banco de Dados.
+- 📫 Meu e-mail de contato é: bruno.rreiss11@gmail.com
+- 😄 Pronouns: ele/dele
